@@ -5,6 +5,9 @@ Covid19 App in Flutter
 # APIs:
 https://api.covid19india.org/
 
+# Flare Animation (DOST Boy):
+https://rive.app/a/beatriz/files/flare/dost-animation-boy/preview
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
